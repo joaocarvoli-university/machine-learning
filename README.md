@@ -10,7 +10,7 @@
 
   > #### Once a week, a exercise will be posted here
 
-* [Resolved exams :clipboard:](./)
+* [~~Resolved exams~~ :clipboard:](./)
 
   > #### Here, don't have yet any content to be posted
 
