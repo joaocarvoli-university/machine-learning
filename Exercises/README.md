@@ -7,3 +7,5 @@
 |[**Problem 03.2**](https://nbviewer.jupyter.org/github/joaocarvoli/MachineLearning-course/blob/main/Exercises/03.2-problem.ipynb)|    `Predicting the type the Wine Quality - with KNN - auto`     |
 |[**Problem 04.1**](https://nbviewer.jupyter.org/github/joaocarvoli/MachineLearning-course/blob/main/Exercises/04.1-problem.ipynb)|    `Implementing some KNN functions to Regression: House Price Index`     |
 |[**Problem 04.2**](https://nbviewer.jupyter.org/github/joaocarvoli/MachineLearning-course/blob/main/Exercises/04.2-problem.ipynb)|    `Make regression of White Wine Quality - using KNN Regressor`     |
+|[**Problem 05**](https://nbviewer.jupyter.org/github/joaocarvoli/MachineLearning-course/blob/main/Exercises/05-problem.ipynb)|    `Building Functions to Evaluate Classification and Regression Problems`     |
+
