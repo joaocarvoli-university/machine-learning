@@ -8,4 +8,6 @@
 |[**Problem 04.1**](https://nbviewer.jupyter.org/github/joaocarvoli/MachineLearning-course/blob/main/Exercises/04.1-problem.ipynb)|    `Implementing some KNN functions to Regression: House Price Index`     |
 |[**Problem 04.2**](https://nbviewer.jupyter.org/github/joaocarvoli/MachineLearning-course/blob/main/Exercises/04.2-problem.ipynb)|    `Make regression of White Wine Quality - using KNN Regressor`     |
 |[**Problem 05**](https://nbviewer.jupyter.org/github/joaocarvoli/MachineLearning-course/blob/main/Exercises/05-problem.ipynb)|    `Building Functions to Evaluate Classification and Regression Problems`     |
+|[**Problem 06**](https://nbviewer.jupyter.org/github/joaocarvoli/MachineLearning-course/blob/main/Exercises/06_problem.ipynb)|    `Working with holdout, cross-validation and grid search CV`     |
+
 
