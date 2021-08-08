@@ -9,5 +9,7 @@
 |[**Problem 04.2**](https://nbviewer.jupyter.org/github/joaocarvoli/MachineLearning-course/blob/main/Exercises/04.2-problem.ipynb)|    `Make regression of White Wine Quality - using KNN Regressor`     |
 |[**Problem 05**](https://nbviewer.jupyter.org/github/joaocarvoli/MachineLearning-course/blob/main/Exercises/05-problem.ipynb)|    `Building Functions to Evaluate Classification and Regression Problems`     |
 |[**Problem 06**](https://nbviewer.jupyter.org/github/joaocarvoli/MachineLearning-course/blob/main/Exercises/06_problem.ipynb)|    `Working with holdout, cross-validation and grid search CV`     |
+|[**Problem 07.1**](https://nbviewer.jupyter.org/github/joaocarvoli/MachineLearning-course/blob/main/Exercises/7.1-problem.ipynb)|    `Lasso and Rigde regularization`     |
+|[**Problem 07.2**](https://nbviewer.jupyter.org/github/joaocarvoli/MachineLearning-course/blob/main/Exercises/7.2-problem.ipynb)|    `Exploring Logistic Regression and its penalities`     |
 
 
