@@ -2,7 +2,7 @@
 
 ## _`In this program, We'll study these fields`_
 
-![](https://github.com/joaocarvoli/Machine-Learning/blob/main/images/test.svg)
+![](https://github.com/joaocarvoli/Machine-Learning/blob/main/images/ml-diagram.svg)
 
 ### Here, You can found: :arrow\_heading\_down:
 
